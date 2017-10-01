@@ -1,0 +1,1 @@
+ # 调用saltstack contrib工具去发送指令
